@@ -8,8 +8,8 @@
 <!-- Replace with 1-sentence description about what this tool is or does.-->
 
 <h3 align="center">STT and TTS inference api </h3>
-pip install "fastapi[all]"
-uvicorn main:app --reload
+```pip install "fastapi[all]"
+uvicorn main:app --reload```
 
 ## Project owner(s)
 
