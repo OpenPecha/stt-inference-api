@@ -36,9 +36,9 @@ uvicorn main:app --reload
 
 <!-- Add any intregrations here or delete `- []()` and write None-->
 
-None
+
 ## Docs
 
 <!-- Update the link to the docs -->
 
-Read the docs [here](https://wiki.openpecha.org/#/dev/coding-guidelines).
+Fastapi documentation [here]([https://wiki.openpecha.org/#/dev/coding-guidelines](https://fastapi.tiangolo.com/)https://fastapi.tiangolo.com/).
