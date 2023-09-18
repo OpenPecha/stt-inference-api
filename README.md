@@ -9,7 +9,8 @@
 
 <h3 align="center">STT and TTS inference api </h3>
 
-### Install using pip.
+
+### Dependencies
 
 ```
 pip install "fastapi[all]"
