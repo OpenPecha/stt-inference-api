@@ -7,7 +7,9 @@
 
 <!-- Replace with 1-sentence description about what this tool is or does.-->
 
-<h3 align="center">Use this repo template for all new Python projects.</h3>
+<h3 align="center">STT and TTS inference api </h3>
+pip install "fastapi[all]"
+uvicorn main:app --reload
 
 ## Project owner(s)
 
