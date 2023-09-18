@@ -13,7 +13,7 @@
 
 <!-- Link to the repo owners' github profiles -->
 
-- [@spsithar](https://github.com/spsithar)
+- [@spsither](https://github.com/spsither)
 - [@TenzinGayche](https://github.com/TenzinGayche)
 
 
