@@ -41,4 +41,4 @@ uvicorn main:app --reload
 
 <!-- Update the link to the docs -->
 
-Fastapi documentation[here](https://fastapi.tiangolo.com/)
+Fastapi documentation [here](https://fastapi.tiangolo.com/)
