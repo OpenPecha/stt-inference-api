@@ -13,8 +13,9 @@
 
 <!-- Link to the repo owners' github profiles -->
 
-- [@10zinten](https://github.com/10zinten)
-- [@evanyerburgh](https://github.com/evanyerburgh)
+- [@spsithar](https://github.com/spsithar)
+- [@TenzinGayche](https://github.com/TenzinGayche)
+
 
 ## Integrations
 
