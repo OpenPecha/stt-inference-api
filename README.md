@@ -8,11 +8,22 @@
 <!-- Replace with 1-sentence description about what this tool is or does.-->
 
 <h3 align="center">STT and TTS inference api </h3>
-```python
+
+### Install using pip.
+
+```
 pip install "fastapi[all]"
-uvicorn main:app --reload```
+pip install "uvicorn[standard]"
+
+```
+### Run 
+```
+uvicorn main:app --reload
+
+```
 
 ## Project owner(s)
+
 
 <!-- Link to the repo owners' github profiles -->
 
